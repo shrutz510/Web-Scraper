@@ -1,0 +1,242 @@
+[2025-02-11 02:43:18] Spider initialized. Checking for new PDFs.
+[2025-02-11 02:43:18] No leftover PDFs found for processing.
+[2025-02-11 02:43:20] Found 79 PDF links on the page.
+[2025-02-11 02:43:20] Downloading: 0001u-00842.pdf
+[2025-02-11 02:43:20] Downloading: 15570-19101.pdf
+[2025-02-11 02:43:20] Downloading: 22850-24073.pdf
+[2025-02-11 02:43:20] Downloading: 26567-27178.pdf
+[2025-02-11 02:43:20] Downloading: 28270-29358.pdf
+[2025-02-11 02:43:20] Downloading: 33212-33676.pdf
+[2025-02-11 02:43:20] Downloading: 36580-38564.pdf
+[2025-02-11 02:43:20] Downloading: 44146-45331.pdf
+[2025-02-11 02:43:20] Downloading: 50553-51784.pdf
+[2025-02-11 02:43:20] Downloading: 57513-59100.pdf
+[2025-02-11 02:43:20] Downloading: 63287-64766.pdf
+[2025-02-11 02:43:20] Downloading: 69644-70450.pdf
+[2025-02-11 02:43:20] Downloading: 73218-74022.pdf
+[2025-02-11 02:43:20] Downloading: 75956-76519.pdf
+[2025-02-11 02:43:20] Downloading: 77789-78261.pdf
+[2025-02-11 02:43:20] Downloading: 84681-87400.pdf
+[2025-02-11 02:43:20] Downloading: 92136-92626.pdf
+[2025-02-11 02:43:20] Downloading: 94010-95806.pdf
+[2025-02-11 02:43:20] Downloading: 99348-a4708.pdf
+[2025-02-11 02:43:20] Downloading: e2311-l1660.pdf
+[2025-02-11 02:43:20] Downloading: 00844-01820.pdf
+[2025-02-11 02:43:20] Downloading: 19105-21014.pdf
+[2025-02-11 02:43:20] Downloading: 24075-25109.pdf
+[2025-02-11 02:43:20] Downloading: 27179-27468.pdf
+[2025-02-11 02:43:20] Downloading: 29365-30620.pdf
+[2025-02-11 02:43:20] Downloading: 33677-35011.pdf
+[2025-02-11 02:43:20] Downloading: 38570-42227.pdf
+[2025-02-11 02:43:20] Downloading: 45332-47130.pdf
+[2025-02-11 02:43:20] Downloading: 51785-53510.pdf
+[2025-02-11 02:43:20] Downloading: 59120-61520.pdf
+[2025-02-11 02:43:20] Downloading: 64771-66150.pdf
+[2025-02-11 02:43:20] Downloading: 70460-71111.pdf
+[2025-02-11 02:43:20] Downloading: 74150-74410.pdf
+[2025-02-11 02:43:20] Downloading: 76529-76941.pdf
+[2025-02-11 02:43:20] Downloading: 78262-78605.pdf
+[2025-02-11 02:43:20] Downloading: 87420-88333.pdf
+[2025-02-11 02:43:20] Downloading: 92627-93312.pdf
+[2025-02-11 02:43:20] Downloading: 95807-95933.pdf
+[2025-02-11 02:43:20] Downloading: a4709-d5225.pdf
+[2025-02-11 02:43:20] Downloading: l1680-l5999.pdf
+[2025-02-11 02:43:20] Downloading: 01829-11643.pdf
+[2025-02-11 02:43:20] Downloading: 21015-21435.pdf
+[2025-02-11 02:43:20] Downloading: 25110-25920.pdf
+[2025-02-11 02:43:20] Downloading: 27470-27750.pdf
+[2025-02-11 02:43:20] Downloading: 30630-31635.pdf
+[2025-02-11 02:43:20] Downloading: 35013-35601.pdf
+[2025-02-11 02:43:20] Downloading: 42235-43261.pdf
+[2025-02-11 02:43:20] Downloading: 47135-49423.pdf
+[2025-02-11 02:43:20] Downloading: 53515-55520.pdf
+[2025-02-11 02:43:20] Downloading: 61521-62161.pdf
+[2025-02-11 02:43:20] Downloading: 66155-67880.pdf
+[2025-02-11 02:43:20] Downloading: 71120-72157.pdf
+[2025-02-11 02:43:20] Downloading: 74415-75716.pdf
+[2025-02-11 02:43:20] Downloading: 76942-77285.pdf
+[2025-02-11 02:43:20] Downloading: 78606-80436.pdf
+[2025-02-11 02:43:20] Downloading: 88334-90847.pdf
+[2025-02-11 02:43:20] Downloading: 93313-93619.pdf
+[2025-02-11 02:43:20] Downloading: 95937-97016.pdf
+[2025-02-11 02:43:20] Downloading: d5226-e0660.pdf
+[2025-02-11 02:43:20] Downloading: l6000-v5364.pdf
+[2025-02-11 02:43:20] Downloading: 11644-15278.pdf
+[2025-02-11 02:43:20] Downloading: 21436-22849.pdf
+[2025-02-11 02:43:20] Downloading: 25922-26565.pdf
+[2025-02-11 02:43:20] Downloading: 27752-28264.pdf
+[2025-02-11 02:43:20] Downloading: 31636-33211.pdf
+[2025-02-11 02:43:20] Downloading: 35606-36578.pdf
+[2025-02-11 02:43:20] Downloading: 43262-44145.pdf
+[2025-02-11 02:43:20] Downloading: 49424-50551.pdf
+[2025-02-11 02:43:20] Downloading: 55530-57511.pdf
+[2025-02-11 02:43:20] Downloading: 62162-63286.pdf
+[2025-02-11 02:43:20] Downloading: 67882-69643.pdf
+[2025-02-11 02:43:20] Downloading: 72158-73206.pdf
+[2025-02-11 02:43:20] Downloading: 75726-75902.pdf
+[2025-02-11 02:43:20] Downloading: 77290-77778.pdf
+[2025-02-11 02:43:20] Downloading: 80438-84630.pdf
+[2025-02-11 02:43:20] Downloading: 90849-92134.pdf
+[2025-02-11 02:43:20] Downloading: 93620-94005.pdf
+[2025-02-11 02:43:20] Downloading: 97018-99347.pdf
+[2025-02-11 02:43:20] Downloading: e0665-e2310.pdf
+[2025-02-11 02:43:20] Extracting data from 0001u-00842.pdf
+[2025-02-11 02:43:28] Moved 0001u-00842.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:43:28] Extracting data from 76942-77285.pdf
+[2025-02-11 02:43:33] Moved 76942-77285.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:43:33] Extracting data from 61521-62161.pdf
+[2025-02-11 02:43:38] Moved 61521-62161.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:43:38] Extracting data from 74415-75716.pdf
+[2025-02-11 02:43:42] Moved 74415-75716.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:43:42] Extracting data from 78606-80436.pdf
+[2025-02-11 02:43:49] Moved 78606-80436.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:43:49] Extracting data from 88334-90847.pdf
+[2025-02-11 02:43:55] Moved 88334-90847.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:43:55] Extracting data from 71120-72157.pdf
+[2025-02-11 02:44:01] Moved 71120-72157.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:44:01] Extracting data from 66155-67880.pdf
+[2025-02-11 02:44:06] Moved 66155-67880.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:44:06] Extracting data from 53515-55520.pdf
+[2025-02-11 02:44:12] Moved 53515-55520.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:44:12] Extracting data from 42235-43261.pdf
+[2025-02-11 02:44:17] Moved 42235-43261.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:44:17] Extracting data from 47135-49423.pdf
+[2025-02-11 02:44:22] Moved 47135-49423.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:44:22] Extracting data from 35013-35601.pdf
+[2025-02-11 02:44:29] Moved 35013-35601.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:44:29] Extracting data from 30630-31635.pdf
+[2025-02-11 02:44:35] Moved 30630-31635.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:44:35] Extracting data from 27470-27750.pdf
+[2025-02-11 02:44:40] Moved 27470-27750.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:44:40] Extracting data from 21015-21435.pdf
+[2025-02-11 02:44:45] Moved 21015-21435.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:44:45] Extracting data from 25110-25920.pdf
+[2025-02-11 02:44:50] Moved 25110-25920.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:44:50] Extracting data from 90849-92134.pdf
+[2025-02-11 02:44:56] Moved 90849-92134.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:44:56] Extracting data from e0665-e2310.pdf
+[2025-02-11 02:45:03] Moved e0665-e2310.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:45:03] Extracting data from 97018-99347.pdf
+[2025-02-11 02:45:09] Moved 97018-99347.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:45:09] Extracting data from 93620-94005.pdf
+[2025-02-11 02:45:16] Moved 93620-94005.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:45:16] Extracting data from 80438-84630.pdf
+[2025-02-11 02:45:23] Moved 80438-84630.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:45:24] Extracting data from 49424-50551.pdf
+[2025-02-11 02:45:28] Moved 49424-50551.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:45:28] Extracting data from 75726-75902.pdf
+[2025-02-11 02:45:33] Moved 75726-75902.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:45:33] Extracting data from 67882-69643.pdf
+[2025-02-11 02:45:39] Moved 67882-69643.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:45:39] Extracting data from 77290-77778.pdf
+[2025-02-11 02:45:45] Moved 77290-77778.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:45:45] Extracting data from 72158-73206.pdf
+[2025-02-11 02:45:52] Moved 72158-73206.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:45:52] Extracting data from 62162-63286.pdf
+[2025-02-11 02:45:58] Moved 62162-63286.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:45:58] Extracting data from 55530-57511.pdf
+[2025-02-11 02:46:04] Moved 55530-57511.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:46:04] Extracting data from 43262-44145.pdf
+[2025-02-11 02:46:16] Moved 43262-44145.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:46:16] Extracting data from 27752-28264.pdf
+[2025-02-11 02:46:22] Moved 27752-28264.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:46:22] Extracting data from 25922-26565.pdf
+[2025-02-11 02:46:27] Moved 25922-26565.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:46:27] Extracting data from 11644-15278.pdf
+[2025-02-11 02:46:33] Moved 11644-15278.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:46:33] Extracting data from 35606-36578.pdf
+[2025-02-11 02:46:39] Moved 35606-36578.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:46:39] Extracting data from 21436-22849.pdf
+[2025-02-11 02:46:45] Moved 21436-22849.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:46:45] Extracting data from 31636-33211.pdf
+[2025-02-11 02:46:52] Moved 31636-33211.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:46:52] Extracting data from d5226-e0660.pdf
+[2025-02-11 02:47:01] Moved d5226-e0660.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:47:01] Extracting data from l6000-v5364.pdf
+[2025-02-11 02:47:18] Moved l6000-v5364.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:47:18] Extracting data from 95937-97016.pdf
+[2025-02-11 02:47:23] Moved 95937-97016.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:47:23] Extracting data from l1680-l5999.pdf
+[2025-02-11 02:47:28] Moved l1680-l5999.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:47:28] Extracting data from 95807-95933.pdf
+[2025-02-11 02:47:35] Moved 95807-95933.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:47:35] Extracting data from a4709-d5225.pdf
+[2025-02-11 02:47:43] Moved a4709-d5225.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:47:43] Extracting data from 92627-93312.pdf
+[2025-02-11 02:47:49] Moved 92627-93312.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:47:49] Extracting data from 93313-93619.pdf
+[2025-02-11 02:47:56] Moved 93313-93619.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:47:56] Extracting data from 87420-88333.pdf
+[2025-02-11 02:48:02] Moved 87420-88333.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:48:02] Extracting data from 01829-11643.pdf
+[2025-02-11 02:48:12] Moved 01829-11643.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:48:12] Extracting data from 76529-76941.pdf
+[2025-02-11 02:48:18] Moved 76529-76941.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:48:18] Extracting data from 70460-71111.pdf
+[2025-02-11 02:48:24] Moved 70460-71111.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:48:24] Extracting data from 45332-47130.pdf
+[2025-02-11 02:48:29] Moved 45332-47130.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:48:29] Extracting data from 74150-74410.pdf
+[2025-02-11 02:48:35] Moved 74150-74410.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:48:35] Extracting data from 78262-78605.pdf
+[2025-02-11 02:48:41] Moved 78262-78605.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:48:41] Extracting data from 59120-61520.pdf
+[2025-02-11 02:48:47] Moved 59120-61520.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:48:47] Extracting data from 64771-66150.pdf
+[2025-02-11 02:48:52] Moved 64771-66150.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:48:52] Extracting data from 51785-53510.pdf
+[2025-02-11 02:48:58] Moved 51785-53510.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:48:58] Extracting data from 24075-25109.pdf
+[2025-02-11 02:49:04] Moved 24075-25109.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:49:04] Extracting data from 38570-42227.pdf
+[2025-02-11 02:49:09] Moved 38570-42227.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:49:09] Extracting data from 29365-30620.pdf
+[2025-02-11 02:49:15] Moved 29365-30620.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:49:15] Extracting data from 27179-27468.pdf
+[2025-02-11 02:49:21] Moved 27179-27468.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:49:21] Extracting data from 19105-21014.pdf
+[2025-02-11 02:49:28] Moved 19105-21014.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:49:28] Extracting data from 00844-01820.pdf
+[2025-02-11 02:49:34] Moved 00844-01820.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:49:34] Extracting data from 33677-35011.pdf
+[2025-02-11 02:49:42] Moved 33677-35011.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:49:42] Extracting data from e2311-l1660.pdf
+[2025-02-11 02:49:59] Moved e2311-l1660.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:49:59] Extracting data from 75956-76519.pdf
+[2025-02-11 02:50:04] Moved 75956-76519.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:50:04] Extracting data from 77789-78261.pdf
+[2025-02-11 02:50:09] Moved 77789-78261.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:50:09] Extracting data from 84681-87400.pdf
+[2025-02-11 02:50:15] Moved 84681-87400.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:50:15] Extracting data from 94010-95806.pdf
+[2025-02-11 02:50:22] Moved 94010-95806.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:50:22] Extracting data from 99348-a4708.pdf
+[2025-02-11 02:50:30] Moved 99348-a4708.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:50:30] Extracting data from 69644-70450.pdf
+[2025-02-11 02:50:36] Moved 69644-70450.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:50:36] Extracting data from 92136-92626.pdf
+[2025-02-11 02:50:44] Moved 92136-92626.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:50:44] Extracting data from 73218-74022.pdf
+[2025-02-11 02:50:50] Moved 73218-74022.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:50:51] Extracting data from 44146-45331.pdf
+[2025-02-11 02:50:57] Moved 44146-45331.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:50:57] Extracting data from 28270-29358.pdf
+[2025-02-11 02:51:03] Moved 28270-29358.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:51:03] Extracting data from 57513-59100.pdf
+[2025-02-11 02:51:08] Moved 57513-59100.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:51:08] Extracting data from 26567-27178.pdf
+[2025-02-11 02:51:14] Moved 26567-27178.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:51:14] Extracting data from 50553-51784.pdf
+[2025-02-11 02:51:20] Moved 50553-51784.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:51:20] Extracting data from 63287-64766.pdf
+[2025-02-11 02:51:27] Moved 63287-64766.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:51:27] Extracting data from 36580-38564.pdf
+[2025-02-11 02:51:35] Moved 36580-38564.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:51:35] Extracting data from 33212-33676.pdf
+[2025-02-11 02:51:43] Moved 33212-33676.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:51:43] Extracting data from 15570-19101.pdf
+[2025-02-11 02:51:48] Moved 15570-19101.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:51:48] Extracting data from 22850-24073.pdf
+[2025-02-11 02:51:54] Moved 22850-24073.pdf to /Users/shrutiwagle/Downloads/webscraper/webscraper/pdf_downloads/processed
+[2025-02-11 02:51:54] Finished processing all PDFs.
+
